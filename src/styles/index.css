@@ -8,7 +8,7 @@ body {
     
 }
 .trafficsignal {
-    background: black;
+    background: linear-gradient(rgb(57, 59, 57), black 100%);
     width: 20px;
     height: 100px;
     margin-left: 225px;
@@ -18,7 +18,7 @@ body {
 
 
 .traffic-light {
-    background: black;
+    background: linear-gradient(to left, rgb(57, 59, 57), black, rgb(57, 59, 57));
     width: 130px;
     padding: 15px;
     display: inline-block;
